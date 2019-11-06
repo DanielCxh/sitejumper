@@ -5,7 +5,8 @@
 - [购物](#shopping)
 
 #### <a name="search" href="#search">搜索引擎</a>
-<a href="www.baidu.com" target="_blank">百度</a>
+<a href="https://www.baidu.com" target="_blank">百度</a>
+
 #### <a name="shopping" href="#shopping">购物</a>
 [淘宝](https://www.taobao.com)
 
